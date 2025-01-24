@@ -126,7 +126,7 @@ int consultar()
 	    printf("\t1 - Registrar Nomes\n");
 	    printf("\t2 - Consultar Nomes\n");
 	    printf("\t3 - Deletar Nomes\n\n");
-	    printf("\t4 - Sair do Sistema\n\n");
+	    printf("\t4 - Sair do Sistema\n\n");//Final do Menu
         printf("Opção: ");
 	
 	    scanf("%d", &opcao); //Armazenando a Escolha do usuário
